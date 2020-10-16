@@ -1,6 +1,4 @@
 buying,maint,persons,lug_boot,doors,safety,car
-discrete,discrete,discrete,discrete,discrete,discrete,discrete
-,,,,,,class
 vhigh,vhigh,2,small,2,low,unacc
 vhigh,vhigh,2,small,2,med,unacc
 vhigh,vhigh,2,small,2,high,unacc
